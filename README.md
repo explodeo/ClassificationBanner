@@ -1,8 +1,10 @@
 # A Simple Classification Banner
 
-This repo provides a classification banner script written in Java.
+***THIS CODE HAS NO RELATION OUTSIDE OF PERSONAL WORK!***
 
-If all you want is the classification banner, then check out the [ClassificationBanner.java](./src/ClassificationBanner.java).
+I am using this project to re-learn java and how to create RPM and ZST packages for RedHat and Arch Linux.
+
+This repo provides a classification banner script written in Java. If all you want is the classification banner, then check out the [ClassificationBanner.java](./src/ClassificationBanner.java).
 
 **Features:**
 - Auto-hides every 30 seconds
