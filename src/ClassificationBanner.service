@@ -1,0 +1,11 @@
+[Unit]
+Description=Classification Banner
+After=default.target
+
+[Service]
+Type=simple
+ExecStart=/usr/local/bin/ClassificationBanner.sh "UNCLASSIFIED"
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
